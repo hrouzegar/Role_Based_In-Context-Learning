@@ -64,7 +64,7 @@ This study utilizes samples from a diverse range of datasets to evaluate the per
 - ai2_arc: A benchmark dataset used for evaluating question-answering capabilities.
 - wiki_movie_plots: A dataset containing movie plots used for genre classification.
 - IMDB_reviews: A sentiment analysis dataset comprising movie reviews with corresponding sentiment labels.
-
+- MATH Dataset: A dataset to test reasoning skills with mathematical word problem questions.
 
 
 ## Original Llama
