@@ -1,4 +1,4 @@
-# The Role of Role Design in In-Context Learning for Large Language Models
+# The Impact of Role Design in In-Context Learning for Large Language Models
 
 This repository contains the code and data for the paper "The Role of Role Design in In-Context Learning for Large Language Models," 
 ## Key Contributions
