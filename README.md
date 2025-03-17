@@ -69,3 +69,7 @@ This study utilizes samples from a diverse range of datasets to evaluate the per
 
 ## Original Llama
 The repo for the original llama2  is in the [`llama2`](https://github.com/meta-llama/llama).
+
+---
+
+© 2024 Hamidreza Rouzegar. All rights reserved.
