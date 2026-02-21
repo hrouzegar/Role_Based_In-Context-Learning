@@ -1,4 +1,3 @@
-# The Impact of Role Design in In-Context Learning for Large Language Models
 
 This repository contains the code and data for the paper "The Role of Role Design in In-Context Learning for Large Language Models," 
 ## Key Contributions
@@ -72,4 +71,4 @@ The repo for the original llama2  is in the [`llama2`](https://github.com/meta-l
 
 ---
 
-© 2024 Hamidreza Rouzegar. All rights reserved.
+© ... All rights reserved.
