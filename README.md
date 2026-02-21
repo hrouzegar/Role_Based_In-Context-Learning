@@ -1,5 +1,5 @@
-
-This repository contains the code and data for the paper "The Role of Role Design in In-Context Learning for Large Language Models," 
+# Evaluating Role-Based Prompt Architectures in In-Context Learning
+This repository contains the code and data for the paper "Evaluating Role-Based Prompt Architectures in In-Context Learning" 
 ## Key Contributions
 - Systematic evaluation of role designs in zero-shot and few-shot learning scenarios.
 - Assessment of model performance across tasks like sentiment analysis, text classification, and question answering.
